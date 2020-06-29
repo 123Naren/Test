@@ -1,0 +1,15 @@
+[schema].[tablename];[test].[testtable];[testing].[tabletesting];
+
+
+[test].[lines];
+
+[Input].[InputFormat];
+
+[view].[veiews];
+
+[dbo].[CASE];
+[dbo].[REPORT];
+[dbo].[USER_SEGMENT];
+
+
+
